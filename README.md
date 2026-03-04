@@ -1,2 +1,5 @@
 # Sistema-bancario-simples
-Este é um projeto que desenvolvi há alguns meses porém não subi ele para o github, acredito que ele demonstra uma porcentagem do meu conhecimento na linguagem python. Portanto, achei interessante compartilhar.
+Este projeto teve por objetivo estudar a sintaxe e a estrutura lógica da linguagem Python, tendo como base
+a criação de um sistema que possui funcionalidade real na vida cotidiana.
+Ao finalizar esse sistema, desenvolvi minhas habilidades com funções, estruturas condicionais e de repetição, 
+listas e dicionários.
