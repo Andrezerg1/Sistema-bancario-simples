@@ -1,4 +1,4 @@
-# Sistema Bancário Simples em Python
+# Sistema Bancário Simples em Python 
 
 Este é um projeto prático desenvolvido para consolidar conhecimentos fundamentais em **Python**, utilizando estruturas de dados (dicionários), funções, manipulação de tipos e controle de fluxo.
 
